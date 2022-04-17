@@ -35,5 +35,5 @@ Me encanta viajar, conocer lugares nuevos, aprender cosas nuevas y pasar tiempo 
 Tengo dos perros y un gato, mi perrita tiene 8 años y es rescatada, la adopte cuando ella tenia 2 meses, estaba desnutrida y con muchos problemas de salud, pero salio adelante y ahora es una canina muy feliz, mi perrito tiene 2 años es un dálmata travieso, y hace 4 meses rescate una gatita, ella tiene 1 año.
 
 
-
-
+![mascota2](https://user-images.githubusercontent.com/99162884/163695665-3cb59bd3-bb5c-4e55-9597-7a222443c76c.jpeg)
+![mascota1](https://user-images.githubusercontent.com/99162884/163695666-8eeafb80-a5e3-47af-a4d8-7a74fd420660.jpeg)
