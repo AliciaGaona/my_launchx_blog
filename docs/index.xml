@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciagaona.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciagaona.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Sabias que Git y Github no son lo mismo :astonished: </title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/post_3/</guid>
+      <description>Git: Es un sistema de control de versiones, fue crado por Linus Torvalds en el año 2005.
+:star: Se usa con comandos, puedes usar el que trae el sistemas (git bash), o la terminal de tu sistema operativo. :star: Te el control de versiones te ayuda a mandtener un orden y como su nombre lo dice tener el control de las versiones del proceso de tu proyecto. :star: Algo importante es que tu historial de commits puede ser tu diario para ver que has ido haciendo, tus errores etc.</description>
+    </item>
+    
     <item>
       <title>Introducción al mundo de Node JS</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/post_2/</link>
