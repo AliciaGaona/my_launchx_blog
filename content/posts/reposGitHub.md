@@ -16,6 +16,10 @@ Tienes disponibles todas estas categorías:
 
 ![image](https://user-images.githubusercontent.com/99162884/165006628-6ef89ab6-0395-4c6a-b2ca-871d556a645f.png)
 
-🔅 __Issue:__ Un  es una "nota"en un repositorio que trata de llamar la atención sobre un problema, aclarar puntos importantes, instrucciones etc. <br>
-🔅 __Acionts:__ Se usan par automatizar tareas sobre nuestro proyecto. <br>
-🔅 __Markdown :__ Hace la edición de archuvos más fácil. <br>
+🔅 __Issue:__ Un  es una "nota"en un repositorio que trata de llamar la atención sobre un problema, aclarar puntos importantes, instrucciones etc.
+
+🔅 __Acionts:__ Se usan par automatizar tareas sobre nuestro proyecto.
+
+🔅 __Markdown :__ Hace la edición de archuvos más fácil.
+
+
