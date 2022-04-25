@@ -30,7 +30,7 @@ Fuente: https://es.acervolima.com/node-js-repl-read-eval-print-loop/#:~:text=REP
 
 Se utiliza con '>'.
 
-__3. Ejecutar un script: __
+__3. Ejecutar un script:__
 
 Se utiliza el comando node nombreDeArchivo.js
 
