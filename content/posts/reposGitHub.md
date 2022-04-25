@@ -1,7 +1,7 @@
 
 
 
-En un repositorio de GitHub puedes guardar tus proyectos.
+## En un repositorio de GitHub puedes guardar tus proyectos.
 
 Opciones generales de una organización:
 
