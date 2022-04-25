@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Mi experiencia usando Git</title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/miexperienciausandogit/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/miexperienciausandogit/</guid>
+      <description>NUNCA USES LOS COMANDOS DE GIT COMO UN RECETARIO by Carlo Gilmar  Hay que entender bien las bases de git y el porque de cada comando, te recomiendo este curso de Bases de Git by Carlo Gilmar , a mi me ha ayudado mucho a entender que pasa con Git.
+Primeramente algo que me sirvio muchisimo fue entender como es que funciona git con github, digamos que tienes tu proyecto en tu local(tu equipo) y tienes ese mismo remoto, en este caso en la plataforma de Github.</description>
+    </item>
+    
+    <item>
       <title>¿Sabias que Git y Github no son lo mismo </title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/gitvsgithub/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
