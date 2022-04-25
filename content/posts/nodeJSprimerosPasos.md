@@ -1,3 +1,8 @@
+---
+title: "Primeros pasos nodeJS"
+date: 2022-04-24
+description: 'Describo los primeros pasos para usar nodeJS'
+---
 
 
 __1. Para intalar node JS.__
