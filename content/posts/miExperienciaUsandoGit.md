@@ -18,7 +18,7 @@ en cada commit puedes registrar que vas haciendo y esto dará orden y legibilida
 
 ---
 
-#Entendiendo lo anterior yo lo podría resumir muy muy general en:
+# Entendiendo lo anterior yo lo podría resumir muy muy general en:
 
   🚀Clonar mi repositorio de Github en mi local.
   
