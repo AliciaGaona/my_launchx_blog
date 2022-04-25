@@ -40,6 +40,19 @@ Primeramente algo que me sirvio muchisimo fue entender como es que funciona git 
     </item>
     
     <item>
+      <title>Primeros pasos nodeJS</title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/nodejsprimerospasos/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/nodejsprimerospasos/</guid>
+      <description>1. Para intalar node JS. Dirigete a la página principal y descarga la versión más estable(es la que esta por default), elige tu sitema operativo.
+descargar NodeJS
+En mi caso Windows
+2. REPL (Read-Evaluate-Print-Loop).
+¿Qué es? Es similar a Shell (Unix / Linux) y al símbolo del sistema. si podemos interactaar a través de salidas de comandos/expresiones. Es útil para escribir y depurar los códigos. El trabajo de REPL se puede entender en su forma completa:</description>
+    </item>
+    
+    <item>
       <title>Repositorios de GitHub</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/reposgithub/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
@@ -94,19 +107,6 @@ Empatía, paciencia, responsabilidad, humildad
 Mucho autoaprendizaje, estar dispuesto a aprender coas nuevas y reaprender, actuzalizarte continuamente, practicar y practicar.
 🌟 Sentimientos: 🌟/ 🌟 Emociones: 🌟
 Amor a crear, y amor al arte de llevar tus conocieminetos a otro nivel siempre, optimismo, alegría, desesperación(o fustración), pero como todo tomar los posibles sentimientos malos para crecer.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aliciagaona.github.io/my_launchx_blog/posts/nodejsprimerospasos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/nodejsprimerospasos/</guid>
-      <description>1. Para intalar node JS. Dirigete a la página principal y descarga la versión más estable(es la que esta por default), elige tu sitema operativo.
-descargar NodeJS
-En mi caso Windows
-2. REPL (Read-Evaluate-Print-Loop).
-¿Qué es? Es similar a Shell (Unix / Linux) y al símbolo del sistema. si podemos interactaar a través de salidas de comandos/expresiones. Es útil para escribir y depurar los códigos. El trabajo de REPL se puede entender en su forma completa:</description>
     </item>
     
     <item>
