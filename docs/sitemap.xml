@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aliciagaona.github.io/my_launchx_blog/posts/forkandpullrequest/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aliciagaona.github.io/my_launchx_blog/posts/hugo/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -25,8 +28,6 @@
   </url><url>
     <loc>https://aliciagaona.github.io/my_launchx_blog/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aliciagaona.github.io/my_launchx_blog/posts/forkandpullrequest/</loc>
   </url><url>
     <loc>https://aliciagaona.github.io/my_launchx_blog/pages/about/</loc>
   </url><url>

@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciagaona.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fork and PullRequest</title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/forkandpullrequest/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/forkandpullrequest/</guid>
+      <description>Fork: es una copia del proyecto/repositorio de otra persona, creas una copia en tu cuenta(este proyecto tiene que ser público).Lo cual te aparecerá algo asi:
+PullRequest: Son la forma de contribuir a un proyecto grupal o de código abierto, para lo cual el dueño de ese proyecto tiene que aprobar tus cambios o rechazarlos.</description>
+    </item>
+    
+    <item>
       <title>HUGO</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/hugo/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
@@ -73,15 +83,6 @@ Empatía, paciencia, responsabilidad, humildad
 Mucho autoaprendizaje, estar dispuesto a aprender coas nuevas y reaprender, actuzalizarte continuamente, practicar y practicar.
 🌟 Sentimientos: 🌟/ 🌟 Emociones: 🌟
 Amor a crear, y amor al arte de llevar tus conocieminetos a otro nivel siempre, optimismo, alegría, desesperación(o fustración), pero como todo tomar los posibles sentimientos malos para crecer.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aliciagaona.github.io/my_launchx_blog/posts/forkandpullrequest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/forkandpullrequest/</guid>
-      <description></description>
     </item>
     
   </channel>
