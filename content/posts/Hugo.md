@@ -14,7 +14,7 @@ Es un lenguaje de programación  inspirado en la sintaxis de C.
 Puede tener HTML, CSS,  JS, no necesita un servidor para funcionar.
 
 
-	⭐ Hugo tiene temas que puedes elegur.
-  	⭐ HUGO literalmente te pregunta hace la pregunta - ¿que información quieres que ponga en tu sitio estático?
-    	⭐ HUGO te pregunta un tema, una configuración, los junta y te da un paquete con JS, HTML y CSS listo para montarlo en algún lugar.
-        ⭐  GoHugo publica el sitio.
+	⭐HUGO tiene temas que puedes elegur.
+  	⭐HUGO literalmente te pregunta hace la pregunta - ¿que información quieres que ponga en tu sitio estático?
+    	⭐HUGO te pregunta un tema, una configuración, los junta y te da un paquete con JS, HTML y CSS listo para montarlo en algún lugar.
+        ⭐GoHugo publica el sitio.
