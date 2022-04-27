@@ -1,10 +1,12 @@
-
-
-
+---
+title: "¿Sabias que Git y Github no son lo mismo "
+date: 2022-04-24
+description: 'Descrube porque no son los mismo '
+---
 
 ---
 
-## DICCOONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS
+## DICCIONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS
 
 🍂 __fs.readFileSync("ruta del archivo")__ Se usa para leer un archivo de forma fácil
 
