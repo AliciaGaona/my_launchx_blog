@@ -10,7 +10,7 @@ description: 'Te comparto los métodos que voy descubriendo'
 
 🍂 __some()__ este método comprueba si al menos un elemento del array cumple con la condición implementada por la función proporcionada.
 
-Sintaxis JavaScript: Array.some()
+Sintaxis JavaScript: array.some(function(value, index, arr), this)
 
 🍂 __every()__ este método Determina si todos los elementos en el array satisfacen una condición.
 
