@@ -8,6 +8,14 @@ description: 'Te comparto los métodos que voy descubriendo'
 
 ## DICCIONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS
 
+🍂 __some()__ este método comprueba si al menos un elemento del array cumple con la condición implementada por la función proporcionada.
+
+Sintaxis JavaScript: Array.some()
+
+🍂 __every()__ este método Determina si todos los elementos en el array satisfacen una condición.
+
+Sintaxis JavaScript: Array.every()
+
 🍂 __fs.readFileSync("ruta del archivo")__ Se usa para leer un archivo de forma fácil
 
 🍂 __JSON.parse()__ este método analiza una cadena de texto como JSON.
