@@ -1,7 +1,7 @@
 ---
-title: "¿Sabias que Git y Github no son lo mismo "
-date: 2022-04-24
-description: 'Descrube porque no son los mismo '
+title: "Métodos nodeJS"
+date: 2022-04-26
+description: 'Te comparto los métodos que voy descubriendo'
 ---
 
 ---
