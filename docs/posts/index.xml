@@ -13,11 +13,12 @@
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</guid>
-      <description>DICCIONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS 🍂 fs.readFileSync(&amp;ldquo;ruta del archivo&amp;rdquo;) Se usa para leer un archivo de forma fácil
-🍂 JSON.parse() este método analiza una cadena de texto como JSON.
-¿Objeto JSON? ¿Y eso con que se come? 😆
-  El objeto JSON contiene métodos para analizar- JavaScript Object Notation(JSON)
-  Descripción: JSON en una sintaxis para serializar objetos, arreglos, números, cadenas, booleanos y nulos.</description>
+      <description>DICCIONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS 🍂 some() este método comprueba si al menos un elemento del array cumple con la condición implementada por la función proporcionada.
+Sintaxis JavaScript: Array.some()
+🍂 every() este método Determina si todos los elementos en el array satisfacen una condición.
+Sintaxis JavaScript: Array.every()
+🍂 fs.readFileSync(&amp;ldquo;ruta del archivo&amp;rdquo;) Se usa para leer un archivo de forma fácil
+🍂 JSON.parse() este método analiza una cadena de texto como JSON.</description>
     </item>
     
     <item>
