@@ -6,7 +6,20 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciagaona.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciagaona.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Métodos nodeJS</title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</guid>
+      <description>DICCIONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS 🍂 fs.readFileSync(&amp;ldquo;ruta del archivo&amp;rdquo;) Se usa para leer un archivo de forma fácil
+🍂 JSON.parse() este método analiza una cadena de texto como JSON.
+¿Objeto JSON? ¿Y eso con que se come? 😆
+  El objeto JSON contiene métodos para analizar- JavaScript Object Notation(JSON)
+  Descripción: JSON en una sintaxis para serializar objetos, arreglos, números, cadenas, booleanos y nulos.</description>
+    </item>
+    
     <item>
       <title>Herramientas en el desarollo de software</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/herramientassoftware/</link>
@@ -88,19 +101,6 @@ En mi caso Windows
 ⭐ Se usa con comandos, puedes usar el que trae el sistemas (git bash), o la terminal de tu sistema operativo.
 ⭐ Te el control de versiones te ayuda a mandtener un orden y como su nombre lo dice tener el control de las versiones del proceso de tu proyecto.
 ⭐ Algo importante es que tu historial de commits puede ser tu diario para ver que has ido haciendo, tus errores etc.</description>
-    </item>
-    
-    <item>
-      <title>¿Sabias que Git y Github no son lo mismo </title>
-      <link>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</link>
-      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</guid>
-      <description>DICCIONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS 🍂 fs.readFileSync(&amp;ldquo;ruta del archivo&amp;rdquo;) Se usa para leer un archivo de forma fácil
-🍂 JSON.parse() este método analiza una cadena de texto como JSON.
-¿Objeto JSON? ¿Y eso con que se come? 😆
-  El objeto JSON contiene métodos para analizar- JavaScript Object Notation(JSON)
-  Descripción: JSON en una sintaxis para serializar objetos, arreglos, números, cadenas, booleanos y nulos.</description>
     </item>
     
     <item>
