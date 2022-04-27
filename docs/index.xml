@@ -91,6 +91,19 @@ En mi caso Windows
     </item>
     
     <item>
+      <title>¿Sabias que Git y Github no son lo mismo </title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</guid>
+      <description>DICCIONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS 🍂 fs.readFileSync(&amp;ldquo;ruta del archivo&amp;rdquo;) Se usa para leer un archivo de forma fácil
+🍂 JSON.parse() este método analiza una cadena de texto como JSON.
+¿Objeto JSON? ¿Y eso con que se come? 😆
+  El objeto JSON contiene métodos para analizar- JavaScript Object Notation(JSON)
+  Descripción: JSON en una sintaxis para serializar objetos, arreglos, números, cadenas, booleanos y nulos.</description>
+    </item>
+    
+    <item>
       <title>Introducción al mundo de Node JS</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/post_2/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
