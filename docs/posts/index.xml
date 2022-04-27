@@ -14,7 +14,7 @@
       
       <guid>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</guid>
       <description>DICCIONARIO DE MÉTODOS QUE TE SERÁN UTILES EN NODEJS 🍂 some() este método comprueba si al menos un elemento del array cumple con la condición implementada por la función proporcionada.
-Sintaxis JavaScript: Array.some()
+Sintaxis JavaScript: array.some(function(value, index, arr), this)
 🍂 every() este método Determina si todos los elementos en el array satisfacen una condición.
 Sintaxis JavaScript: Array.every()
 🍂 fs.readFileSync(&amp;ldquo;ruta del archivo&amp;rdquo;) Se usa para leer un archivo de forma fácil
