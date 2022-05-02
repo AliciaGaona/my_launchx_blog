@@ -1,6 +1,6 @@
 ---
 title: "Igualdades regulares y estrictas en JS"
-date: 2022-04-16
+date: 2022-05-1
 description: '¿Sabes la difierencia? (===) vs (==) '
 ---
 
