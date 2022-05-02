@@ -115,7 +115,7 @@ En mi caso Windows
     </item>
     
     <item>
-      <title>Igualdades en JS =&gt;&gt;   (===) vs (==) </title>
+      <title>Igualdades regulares y estrictas en JS</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/igualdadesjs/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -123,7 +123,7 @@ En mi caso Windows
       <description>Igualdad regular (==)  Intenta convertir los valores a un mismo tipo de dato antes de compararlos.  Igualdad estrcita (===)   Verifica si dos operandos son iguales y produce un resultado Booleano.
   Usan el Algoritmo Estricto Comparativo de Igualdad para comparar dos operandos.
   SI LOS DOS VALORES A COMPARAR CON IGUALES DA TRUE NO IMPORTA EL TIPO
-flowchart LR A&amp;ndash; === &amp;mdash;A
+if(a===a) =&amp;gt; true
 SI LOS DOS VALORES A COMPARAR SON DISTINTOS DEVUELVE FALSE</description>
     </item>
     
