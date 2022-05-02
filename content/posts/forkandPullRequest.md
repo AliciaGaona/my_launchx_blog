@@ -2,7 +2,7 @@
 ---
 title: "Fork and PullRequest"
 date: 2022-04-24
-description: ' '
+description: ' Fork'
 ---
 
 __Fork:__ es una copia del proyecto/repositorio de otra persona, creas una copia en tu cuenta(este proyecto tiene que ser público).<br>
