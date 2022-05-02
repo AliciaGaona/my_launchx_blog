@@ -115,19 +115,6 @@ En mi caso Windows
     </item>
     
     <item>
-      <title>Igualdades regulares y estrictas en JS</title>
-      <link>https://aliciagaona.github.io/my_launchx_blog/posts/igualdadesjs/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/igualdadesjs/</guid>
-      <description>Igualdad regular (==)  Intenta convertir los valores a un mismo tipo de dato antes de compararlos.  Igualdad estrcita (===)   Verifica si dos operandos son iguales y produce un resultado Booleano.
-  Usan el Algoritmo Estricto Comparativo de Igualdad para comparar dos operandos.
-  SI LOS DOS VALORES A COMPARAR CON IGUALES DA TRUE NO IMPORTA EL TIPO
-if(a===a) =&amp;gt; true
-SI LOS DOS VALORES A COMPARAR SON DISTINTOS DEVUELVE FALSE</description>
-    </item>
-    
-    <item>
       <title>Mi ruta de aprendizaje.</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
@@ -151,6 +138,19 @@ Empatía, paciencia, responsabilidad, humildad
 Mucho autoaprendizaje, estar dispuesto a aprender coas nuevas y reaprender, actuzalizarte continuamente, practicar y practicar.
 🌟 Sentimientos: 🌟/ 🌟 Emociones: 🌟
 Amor a crear, y amor al arte de llevar tus conocieminetos a otro nivel siempre, optimismo, alegría, desesperación(o fustración), pero como todo tomar los posibles sentimientos malos para crecer.</description>
+    </item>
+    
+    <item>
+      <title>Igualdades regulares y estrictas en JS</title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/igualdadesjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/igualdadesjs/</guid>
+      <description>Igualdad regular (==)  Intenta convertir los valores a un mismo tipo de dato antes de compararlos.  Igualdad estrcita (===)   Verifica si dos operandos son iguales y produce un resultado Booleano.
+  Usan el Algoritmo Estricto Comparativo de Igualdad para comparar dos operandos.
+  SI LOS DOS VALORES A COMPARAR CON IGUALES DA TRUE NO IMPORTA EL TIPO
+if(a===a) =&amp;gt; true
+SI LOS DOS VALORES A COMPARAR SON DISTINTOS DEVUELVE FALSE</description>
     </item>
     
   </channel>
