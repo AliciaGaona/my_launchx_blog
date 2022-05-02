@@ -1,7 +1,7 @@
 ---
-title: "Igualdades en JS =>>   (===) vs (==) "
+title: "Igualdades regulares y estrictas en JS"
 date: 2022-04-16
-description: '¿Sabes la difierencia?'
+description: '¿Sabes la difierencia? (===) vs (==) '
 ---
 
 ## Igualdad regular (==)
@@ -16,11 +16,11 @@ description: '¿Sabes la difierencia?'
 
 _SI LOS DOS VALORES A COMPARAR CON IGUALES DA TRUE NO IMPORTA EL TIPO_
 
-flowchart LR
-    A-- === ---A
+if(a===a) => true
 
 _SI LOS DOS VALORES A COMPARAR SON DISTINTOS DEVUELVE FALSE_
 
-flowchart LR
-    A-- === ---B
+if(a===b) => false
+
+
     
