@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciagaona.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dependencias importantes NodeJS 🐰🐰</title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/dependencias/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/dependencias/</guid>
+      <description>Jest: Hola yo te ayudo a escribir y ejecutar tus pruebas unitarias, soy el detective de tu proyecto&amp;hellip; 🔍 Es una librería que nos permite escribir y ejecutar tests. Documentación: https://jestjs.io/docs/api
+EsLint: Hola yo te ayudo a verificar que tu código este limpio,con la sintaxis o reglas adecuadas, soy el policia de tu proyecto&amp;hellip; 👮 Es una herramienta de código abierto, que nso ayuda a limpiar nuestro código, podemos agregarle las reglas que necesitemos, y con un solo comando te muestra los errores y con otro los corrige.</description>
+    </item>
+    
+    <item>
       <title>Métodos nodeJS</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/metodosnodejs/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
