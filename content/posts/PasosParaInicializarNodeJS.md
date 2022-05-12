@@ -77,6 +77,20 @@ Con esto , podremos activar el comando npm test y correr las pruebas
 
 __El script del package.json se usa para declarar la palabra con la que vamos a inicializar alguna dependencia instalada__
 
+8. Instala ESLint en tu proyecto ▶️ npm install eslint --save-dev
+
+  8.1. Ejecuta el comando para generar la configuración del linter ▶️ npm init @eslint/config esto te generará un archivo llamado _.eslintrc.js_ , ahi se agregan las reglas que podemos decirle al Linter que revise en nuestros archivos, nos ayudan a detectar mejoras de escritura.
+  
+  8.2. Automatiza los comandos de eslint en tu package.json.
+
+![image](https://user-images.githubusercontent.com/99162884/168003511-a3f4f7c1-35eb-4b17-9b8b-5616ec33865a.png)
+
+
+---
+
+##CONFIGURACIONES EXTRA
+
+Instalar servidor express ▶️  npm install express --save
 
 
 
@@ -86,10 +100,16 @@ __El script del package.json se usa para declarar la palabra con la que vamos a 
 
 [Documentación Jest](https://jestjs.io/docs/api)
 
+- Dependencia express - Express es una de las dependencias más populares y usadas en NodeJs porque nos permite implementar una infraestructura web flexible y rápida, ya sea para un desarrollo web clásico o implementar una RESTFul Api. [Referencia](https://anexsoft.com/ejemplo-de-nodejs-y-express) 
+
+- esLint -  ESLint es la herramienta predominante para la tarea de "limpiar" código javascript tanto en el servidor (node.js) como en el navegador.
+
+[Documentación](https://eslint.org/docs/rules/)
 
 
 ## PRUEBAS DE UNIDAD
 
+ TDD
 
 ## GLOSARIO
 
