@@ -81,6 +81,8 @@ __El script del package.json se usa para declarar la palabra con la que vamos a 
 
   8.1. Ejecuta el comando para generar la configuración del linter ▶️ npm init @eslint/config esto te generará un archivo llamado _.eslintrc.js_ , ahi se agregan las reglas que podemos decirle al Linter que revise en nuestros archivos, nos ayudan a detectar mejoras de escritura.
   
+  ![image](https://user-images.githubusercontent.com/99162884/168004185-c42575f1-e97d-4c91-95a1-4ab0ab1a8153.png)
+  
   8.2. Automatiza los comandos de eslint en tu package.json.
 
 ![image](https://user-images.githubusercontent.com/99162884/168003511-a3f4f7c1-35eb-4b17-9b8b-5616ec33865a.png)
@@ -105,6 +107,8 @@ Instalar servidor express ▶️  npm install express --save
 - esLint -  ESLint es la herramienta predominante para la tarea de "limpiar" código javascript tanto en el servidor (node.js) como en el navegador.
 
 [Documentación](https://eslint.org/docs/rules/)
+
+[Refrencia de mas sobre lint](https://lenguajejs.com/javascript/caracteristicas/eslint/)
 
 
 ## PRUEBAS DE UNIDAD
