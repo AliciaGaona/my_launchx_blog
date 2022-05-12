@@ -1,4 +1,3 @@
-
 ---
 title: "Pasos para inicializar un proyecto en nodeJS"
 date: 2022-05-11
@@ -58,7 +57,13 @@ Fijate como después de instalar Jest, el corazón de nuestra app lo registra.
 
 4. Crea la estructura de tu proyecto, las carpetas donde iran tus archivos y tus pruebas unitarias etcetc.
 
+Por ejemplo en LauchX usamos dos directorios principales(app y test), en app van todas nuestras clases y se duplica todo en test para que cada fucnionalidad tenga su prueba unitaria.
 
+Regla de oro: Por cada funcionalidad primero se hace una prueba unitaria.
+
+5. Creación de prueba unitaria, la idea es hacerla fallar y pensar en todos los escenarios, y despues hacer que pase.
+
+Partiendo de ahi, crear la funcionalidad.
 
 
 
