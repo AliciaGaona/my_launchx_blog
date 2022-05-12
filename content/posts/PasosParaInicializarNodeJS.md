@@ -96,6 +96,10 @@ Instalar servidor express ▶️  npm install express --save
 
 Instalar Prisma ▶️ npm install prisma --save-dev
 
+Instalar bot de telegram npm ▶️ install node-telegram-bot-api --save
+
+Dependencia que nos ayudará a tener configuración externalizada - npm install dotenv --save
+Crea un archivo .env en la raíz de tu proyecto con contenido que necesites.
 
 
 ## DEPENDENCIAS
