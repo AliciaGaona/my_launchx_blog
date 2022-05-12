@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title> - Bitácora de Viaje</title>
+  <title>Pasos para inicializar un proyecto en nodeJS - Bitácora de Viaje</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="https://aliciagaona.github.io/my_launchx_blogfavicon.png">
 
@@ -14,12 +14,12 @@
   
 
   
-    
-    <meta property="og:title" content=""/>
+    <meta name="description" content="Inicializar proyecto de nodeJS"/>
+    <meta property="og:title" content="Pasos para inicializar un proyecto en nodeJS"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://aliciagaona.github.io/my_launchx_blog/posts/pasosparainicializarnodejs/"/>
     
-    
+    <meta property="og:description" content="Inicializar proyecto de nodeJS"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="@visual_partner"/>
     <meta name="twitter:creator" content="@visual_partner"/>
@@ -55,11 +55,80 @@
   <div class="blog">
     
     <div class="intro">
-      <h1><span class="dot">.</span></h1>
+      <h1>Pasos para inicializar un proyecto en nodeJS<span class="dot">.</span></h1>
       
     </div>
     <div class="content">
-      
+      <h2 id="bases-que-cualquier-proyecto-necesita">BASES QUE CUALQUIER PROYECTO NECESITA</h2>
+<p>Conjunto de folders y archivos para organizar nuestro código
+Versionamiento con git.
+Puede incluir dependencias.
+Todo proyecto lleva PRUEBAS DE UNIDAD. (No negociable)</p>
+<p><strong>Cuida del orden para que el orden cuide de ti by @Carlo Gilmar</strong></p>
+<h2 id="intalar-la-ultima-versión-de-nodejs">Intalar la ultima versión de nodeJS.</h2>
+<h2 id="escoger-tu-editor-de-texto-favorito">Escoger tu editor de texto favorito.</h2>
+<p>En mi caso uso Visual Code.</p>
+<h2 id="usar-y-conocer-tu-so-en-su-línea-de-comandos">Usar y conocer tu SO en su línea de comandos.</h2>
+<p>En mi caso windows 10.</p>
+<ol>
+<li>
+<p>Crear un proyecto nuevo.</p>
+</li>
+<li>
+<p>Inicializar el proyecto agregando package.json ▶️  npm init (Recuerda siempre VERSIONAR tus apps)</p>
+</li>
+</ol>
+<p><img src="https://user-images.githubusercontent.com/99162884/167997193-ec6236ab-c911-4ac4-9006-27229decbd22.png" alt="image"></p>
+<p><img src="https://user-images.githubusercontent.com/99162884/167997259-02c061f9-e73a-42f6-8b8b-b90410dbdcf2.png" alt="image"></p>
+<p><img src="https://user-images.githubusercontent.com/99162884/167997314-a8879a24-b6c4-459c-ac34-7fe9972e8b2b.png" alt="image"></p>
+<ol start="3">
+<li>Una vez inicializado nuestro proyecto, ya podemos comenzar a instalar las dependencias que usaremos.</li>
+</ol>
+<ul>
+<li>npm install &ndash;save-dev jest</li>
+</ul>
+<p>Verifica que depués de esto se haya creado un directorio llamado <strong>node_modules</strong> este contiene todos los scripts de js de las dependencias.</p>
+<p><strong>RECUERDA NUNCA VERSIONARLO</strong> : para evitar que se versione creamos en la RAÍZ del proyecto un archivo llamado .gitignore con el nombre de lo que no quieras versionar, en este caso: **/node_modules , con esto vamos a decirle a git que excluya este directorio de los commits que realicemos.</p>
+<p>Mira todos estos cambios pendientes antes de crear el archivo .gitignore</p>
+<p><img src="https://user-images.githubusercontent.com/99162884/167998798-61b1703d-9ab7-4253-8775-0f324a765639.png" alt="image"></p>
+<p>Creando .gitignore</p>
+<p><img src="https://user-images.githubusercontent.com/99162884/167999055-822399c0-10c5-453f-8081-427f81b042d1.png" alt="image"></p>
+<p>Fijate como después de instalar Jest, el corazón de nuestra app lo registra.</p>
+<p><img src="https://user-images.githubusercontent.com/99162884/167999333-e96c8a50-179d-4247-9c10-7b6ae503214d.png" alt="image"></p>
+<ol start="4">
+<li>Crea la estructura de tu proyecto, las carpetas donde iran tus archivos y tus pruebas unitarias etcetc.</li>
+</ol>
+<h2 id="dependencias">DEPENDENCIAS</h2>
+<ul>
+<li>Jest - es una librería abierta para pruebas en JavaScript desarrollada por Facebook. Su eslogan es &ldquo;Pruebas de JavaScript deliciosas&rdquo;.</li>
+</ul>
+<p><a href="https://jestjs.io/docs/api">Documentación Jest</a></p>
+<h2 id="pruebas-de-unidad">PRUEBAS DE UNIDAD</h2>
+<h2 id="glosario">GLOSARIO</h2>
+<ul>
+<li>
+<p>NPM (Node Package Manager) es un gestor de paquetes de js que nos permite obtener cualquier librería, nos permitirá agregar y usar dependencias de forma simple.</p>
+</li>
+<li>
+<p>npm init - activará la inicialización de tu proyecto, se generará un archivo package.json y se guardará en el directorio actual.</p>
+</li>
+<li>
+<p>archivo package.json - el corazón de tu proyecto ❤️,  maneja todas tus dependencias y referencias.</p>
+</li>
+<li>
+<p>VERSIONAR tus apps - usar git como un diario de commits de loq ue vas haciendo, te recomiendo este contenido que lo explica muy cool</p>
+</li>
+</ul>
+<p><a href="https://carlogilmar.gitbooks.io/git-course/content/">Curso Git by Carlo Gilmar</a></p>
+<ul>
+<li>
+<p>Depencia JS - bibliotecas de js que nos facilitan la vida</p>
+</li>
+<li>
+<p><strong>node_modules</strong> este contiene todos los scripts de js de las dependencias, __RECUERDA NUNCA VERSIONARLO</p>
+</li>
+</ul>
+
     </div>
   </div>
 

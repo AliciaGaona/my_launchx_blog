@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciagaona.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aliciagaona.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pasos para inicializar un proyecto en nodeJS</title>
+      <link>https://aliciagaona.github.io/my_launchx_blog/posts/pasosparainicializarnodejs/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/pasosparainicializarnodejs/</guid>
+      <description>BASES QUE CUALQUIER PROYECTO NECESITA Conjunto de folders y archivos para organizar nuestro código Versionamiento con git. Puede incluir dependencias. Todo proyecto lleva PRUEBAS DE UNIDAD. (No negociable)
+Cuida del orden para que el orden cuide de ti by @Carlo Gilmar
+Intalar la ultima versión de nodeJS. Escoger tu editor de texto favorito. En mi caso uso Visual Code.
+Usar y conocer tu SO en su línea de comandos. En mi caso windows 10.</description>
+    </item>
+    
     <item>
       <title>Dependencias importantes NodeJS 🐰🐰</title>
       <link>https://aliciagaona.github.io/my_launchx_blog/posts/dependencias/</link>
@@ -156,15 +168,6 @@ Amor a crear, y amor al arte de llevar tus conocieminetos a otro nivel siempre, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aliciagaona.github.io/my_launchx_blog/post/pasosparainicializarnodejs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aliciagaona.github.io/my_launchx_blog/posts/pasosparainicializarnodejs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aliciagaona.github.io/my_launchx_blog/posts/pasosparainicializarnodejs/</guid>
       <description></description>
     </item>
     
