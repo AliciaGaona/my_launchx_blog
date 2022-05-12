@@ -131,5 +131,10 @@ Instalar servidor express ▶️  npm install express --save
 
 - __node_modules__ este contiene todos los scripts de js de las dependencias, __RECUERDA NUNCA VERSIONARLO__
 
+- npm run linter para que el linter se ejecute y te diga todas las inconsistencias de escritura.
+
+- npm run linter-fix corrige.
+
+
 
 
