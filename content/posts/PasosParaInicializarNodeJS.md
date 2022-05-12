@@ -65,6 +65,18 @@ Regla de oro: Por cada funcionalidad primero se hace una prueba unitaria.
 
 Partiendo de ahi, crear la funcionalidad.
 
+6. Crea un archivo en la raíz de tu proyecto que se llame index.js. Este será el archivo principal de este proyecto e inicializalo en tu package.json
+
+![image](https://user-images.githubusercontent.com/99162884/168000977-c89780a8-1af4-4e95-be1c-f0004073ef9f.png)
+
+7. Ve a tu archivo package.json, y modifica la línea que inicia con "test" por:
+
+node ./node_modules/jest/bin/jest.js" (puede variar dependiendo del sistema operativo)
+
+Con esto , podremos activar el comando npm test y correr las pruebas
+
+__El script del package.json se usa para declarar la palabra con la que vamos a inicializar alguna dependencia instalada__
+
 
 
 
