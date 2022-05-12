@@ -94,6 +94,8 @@ __El script del package.json se usa para declarar la palabra con la que vamos a 
 
 Instalar servidor express ▶️  npm install express --save
 
+Instalar Prisma ▶️ npm install prisma --save-dev
+
 
 
 ## DEPENDENCIAS
@@ -134,6 +136,8 @@ Instalar servidor express ▶️  npm install express --save
 - npm run linter para que el linter se ejecute y te diga todas las inconsistencias de escritura.
 
 - npm run linter-fix corrige.
+
+
 
 
 
