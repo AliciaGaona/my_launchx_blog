@@ -125,7 +125,7 @@ Instalar servidor express ▶️  npm install express --save
 
 - Depencia JS - bibliotecas de js que nos facilitan la vida 
 
-- __node_modules__ este contiene todos los scripts de js de las dependencias, __RECUERDA NUNCA VERSIONARLO
+- __node_modules__ este contiene todos los scripts de js de las dependencias, __RECUERDA NUNCA VERSIONARLO__
 
 
 
