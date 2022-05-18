@@ -7,7 +7,7 @@ menu:
 
 ## Hola, aquí vas a leer un poco sobre mi 😁
 
-> Mi nombre es Alicia Gaona Velázquez, tengo 27 años de edad.
+> Mi nombre es Alicia Gaona Velázquez.
 > Soy ingeniera en sistemas Compuacionales
 > Actualmente trabajo como desarrolladora jr.
 
